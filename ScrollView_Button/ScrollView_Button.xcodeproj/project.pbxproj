@@ -14,6 +14,7 @@
 		321936FE1AADB2A500FE0AA8 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 321936FC1AADB2A500FE0AA8 /* LaunchScreen.xib */; };
 		3219370A1AADB2A500FE0AA8 /* ScrollView_ButtonTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 321937091AADB2A500FE0AA8 /* ScrollView_ButtonTests.swift */; };
 		321937141AADBD9200FE0AA8 /* pug.png in Resources */ = {isa = PBXBuildFile; fileRef = 321937131AADBD9100FE0AA8 /* pug.png */; };
+		329AF22B1AB04B14007DFCCD /* cat.png in Resources */ = {isa = PBXBuildFile; fileRef = 329AF22A1AB04B14007DFCCD /* cat.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		321937081AADB2A500FE0AA8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		321937091AADB2A500FE0AA8 /* ScrollView_ButtonTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollView_ButtonTests.swift; sourceTree = "<group>"; };
 		321937131AADBD9100FE0AA8 /* pug.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pug.png; sourceTree = "<group>"; };
+		329AF22A1AB04B14007DFCCD /* cat.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cat.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 				321937061AADB2A500FE0AA8 /* ScrollView_ButtonTests */,
 				321936EF1AADB2A500FE0AA8 /* Products */,
 				321937131AADBD9100FE0AA8 /* pug.png */,
+				329AF22A1AB04B14007DFCCD /* cat.png */,
 			);
 			sourceTree = "<group>";
 		};
@@ -195,6 +198,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				329AF22B1AB04B14007DFCCD /* cat.png in Resources */,
 				321936F91AADB2A500FE0AA8 /* Main.storyboard in Resources */,
 				321936FE1AADB2A500FE0AA8 /* LaunchScreen.xib in Resources */,
 				321936FB1AADB2A500FE0AA8 /* Images.xcassets in Resources */,
@@ -409,6 +413,7 @@
 				3219370F1AADB2A500FE0AA8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		321937101AADB2A500FE0AA8 /* Build configuration list for PBXNativeTarget "ScrollView_ButtonTests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +422,7 @@
 				321937121AADB2A500FE0AA8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
